@@ -14,6 +14,20 @@ def hello_world():
    s = "hello world"
    return s
 
+
+'''
+It is possible to build a URL dynamically, 
+by adding variable parts to the rule parameter. 
+This variable part is marked as <variable-name>. 
+It is passed as a keyword argument to the function 
+with which the rule is associated.
+'''
+@app.route('/hello/<name>')
+def hello_name(name):
+   return 'Hello %s!' % name
+# hence, http://localhost:5000/hello/zeroinverse will provide "hello zeroinverse"
+
+
 if __name__ == '__main__':
    app.run(debug = True)
 
