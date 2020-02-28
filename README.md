@@ -2,8 +2,16 @@
 ### I had to learn flask in limited time, I followed some online guides, and, in the process, created this small repository
 
 **The examples range from 1 to 10 and have comments explaining the important stuff happenining between the lines.**
-\
-\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ | | | | | | | | | | | | | | | | | | | |  / / / / / / / / / / / / / / / / / / / /
+```
+  __ _           _    
+ / _| |         | |   
+| |_| | __ _ ___| | __
+|  _| |/ _` / __| |/ /
+| | | | (_| \__ \   < 
+|_| |_|\__,_|___/_|\_\
+                      
+```
+
 ### Flask
 **Flask** is a web application framework written in Python. It is based on Werkzeug WSGI toolkit and Jinja2 template engine. Both are Pocco projects.
 
