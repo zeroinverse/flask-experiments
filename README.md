@@ -21,7 +21,7 @@ Jinja2 is a popular templating engine for Python. A web templating system combin
 
 *Flask is often referred to as a micro framework. It aims to keep the core of an application simple yet extensible. Flask does not have built-in abstraction layer for database handling, nor does it have form a validation support. Instead, Flask supports the extensions to add such functionality to the application.*
 
-#### refer [palletsprojects / flask](https://www.palletsprojects.com/p/flask/)
+#### reference [palletsprojects / flask](https://www.palletsprojects.com/p/flask/)
 
 ```
 > signing off.....
